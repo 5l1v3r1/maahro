@@ -34,7 +34,6 @@ it fully provide useful information or no information at all without wasting tim
 3. It uses fully piplined power scripting combined with power of Perl
 4. If information is their and fully relevant for tester, it will show that no matter what.
 5. Output results in seconds.
-6. This tool can ONLY be used as domain name records forge
 
 
 # Installation
