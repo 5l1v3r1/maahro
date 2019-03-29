@@ -27,7 +27,7 @@ relevant information for possible take overs.
 2. Web requests are automatically handled by Bash, Awk and Sed scripting modules.
 
 
-# What is the advantage using Maahro compared to other tools?
+# Advantages of Maahro
 1. Maahro is fully automatic and false positive free, it doesn't want user to wait and output false positive information
 but it fully provide useful information or no information at all without wasting time.
 2. It is false negative and false positive free.
