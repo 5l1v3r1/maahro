@@ -4,6 +4,9 @@
 Advanced sub domains finder and takeover
 
 # What is Maahro?
+1. Maahro is super fast, accurate and state of the art tool
+
+# What Maahro means?
 1. Maahro is a urdu word, it means luminous light, yes a hope for fully automatic sub domain finder and possible take overs,
 this is a must have tool for script kiddies or pentesters or those who are new in this Information Security field. It is
 fully automatic sub domain finder from master domain including brute forcing wildcard enteries in seconds, but not only
