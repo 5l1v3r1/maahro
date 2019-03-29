@@ -1,10 +1,18 @@
 # F.A.Q 
 
+
 # Maahro
 Advanced sub domains finder and takeover
 
+
 # What is Maahro?
 1. Maahro is super fast, accurate and state of the art tool
+
+
+<div align="center">
+    <img src="http://oi66.tinypic.com/ji0495.jpg" width="400px"</img> 
+</div>
+
 
 # What Maahro means?
 1. Maahro is a urdu word, it means luminous light, yes a hope for fully automatic sub domain finder and possible take overs,
@@ -13,9 +21,11 @@ fully automatic sub domain finder from master domain including brute forcing wil
 that it can also and fully automatically find sub domains links between their aliases and cname records, showing only
 relevant information for possible take overs. 
 
+
 # How requests are handled?
 1. Web requests are automatically handled by Perl modules.
 2. Web requests are automatically handled by Bash, Awk and Sed scripting modules.
+
 
 # What is the advantage using Maahro compared to other tools?
 1. Maahro is fully automatic and false positive free, it doesn't want user to wait and output false positive information
@@ -24,11 +34,13 @@ but it fully provide useful information or no information at all without wasting
 3. It uses fully piplined power scripting combined with power of Perl
 4. If information is their and fully relevant for tester, it will show that, even if no matter what.
 5. Output results in seconds.
-3. This tool can ONLY be used as domain name records forge
+6. This tool can ONLY be used as domain name records forge
+
 
 # Installation
 1. In your terminal, git clone https://github.com/haroonawanethicalhacker/maahro.git
 2. Load it from Perl, example: Perl maahro.pl
+
 
 # Requirement
 1. Maahro needs Kali
@@ -36,6 +48,7 @@ but it fully provide useful information or no information at all without wasting
 3. Maahro use Bash scripting
 4. Maahro use Awk scripting
 5. Maahro use Sed scripting
+
 
 # Contact
 mrharoonawan@gmail.com
