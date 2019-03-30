@@ -2,7 +2,7 @@
 
 
 # Maahro
-Advanced sub domains finder and takeover
+Advanced sub domain hack software
 
 # LICENSE
 EULA
