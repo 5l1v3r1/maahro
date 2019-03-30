@@ -39,8 +39,9 @@ it fully provide useful information or no information at all without wasting tim
 
 
 # Installation
-1. In your terminal, git clone https://github.com/haroonawanethicalhacker/maahro.git
-2. Load it from Perl, example: Perl maahro.pl
+1. In terminal, enter: git clone https://github.com/haroonawanethicalhacker/maahro.git
+2. In terminal, enter: chmod +x cleaner.sh
+3. In terminal, enter: Perl maahro.pl
 
 
 # Requirement
