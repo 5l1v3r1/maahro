@@ -8,7 +8,7 @@ Advanced sub domains finder and takeover
 EULA
 
 # What is Maahro?
-1. Maahro is super fast, accurate and state of the art tool
+1. Maahro is super fast, accurate and state of the art piece of software
 
 
 <div align="center">
