@@ -40,7 +40,8 @@ it fully provide useful information or no information at all without wasting tim
 
 
 # Installation
-1. Download/clone github in /root/Downlaods path, in folder: chmod u+x installer.sh, then: ./installer.sh and your done!
+1. Download/clone github in /root/Downloads path, in folder: chmod u+x installer.sh, then: ./installer.sh
+2. This will install maahro.pl automatically so you can now run maahro anywhere from system.
 
 
 # Requirement
