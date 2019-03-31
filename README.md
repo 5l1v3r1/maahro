@@ -46,7 +46,7 @@ it fully provide useful information or no information at all without wasting tim
 
 
 # Requirement
-1. Maahro is not limited to Kali, you can run from this software from any *Nix system
+1. Maahro needs any *Nix system
 2. Maahro needs Perl
 3. Maahro use Bash scripting
 4. Maahro use Awk scripting
