@@ -44,12 +44,12 @@ it fully provide useful information or no information at all without wasting tim
 
 
 # Requirement
-1. Maahro needs any *Nix system
+1. Maahro runs on any *Nix system
 2. Maahro needs Perl
-3. Maahro use Bash scripting
-4. Maahro use Awk scripting
-5. Maahro use Sed scripting
-6. Maahro use *Nix-utils
+3. Maahro needs *Nix-utils
+4. Maahro use Bash scripting
+5. Maahro use Awk scripting
+6. Maahro use Sed scripting
 
 
 # Contact
