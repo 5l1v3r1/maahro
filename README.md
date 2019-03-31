@@ -2,7 +2,8 @@
 
 
 # Maahro
-Advanced sub domain hack protection software by revealing full information it can
+1. Advanced sub domain hack software
+2. This is a protection software by hacking and revealing full information it can
 
 # LICENSE
 EULA
