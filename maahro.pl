@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 # *************************************************************************************** #
 # ---------------------------------- EULA NOTICE ---------------------------------------- #
 #                     Agreement between "Haroon Awan" and "You"(user).                    #
@@ -18,7 +19,6 @@
 #  8. It can be used to take measures achieve protection.                                 #
 # *************************************************************************************** #
 
-#!/usr/bin/env perl
 use LWP::UserAgent;
 no warnings 'uninitialized';
 use Term::ANSIColor;
