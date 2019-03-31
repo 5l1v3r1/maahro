@@ -40,9 +40,9 @@ it fully provide useful information or no information at all without wasting tim
 
 
 # Installation
-1. In terminal, enter: git clone https://github.com/haroonawanethicalhacker/maahro.git
-2. In terminal, enter: chmod +x cleaner.sh
-3. In terminal, enter: Perl maahro.pl
+1. Download or git clone
+2. Then enter: chmod +x installer.sh, then run installer: ./installer.sh
+3. Installer will automatically install program, you can run "Maahro" from anywhere in system
 
 
 # Requirement
