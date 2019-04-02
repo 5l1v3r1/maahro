@@ -10,10 +10,14 @@ EULA
 
 # What is Maahro?
 1. Maahro is super fast, accurate and state of the art piece of software
+2. Maahro is a dictionary based tool to find and verify sub domains then extract aliases and cname relations
 
 
 <div align="center">
     <img src="http://oi66.tinypic.com/ji0495.jpg" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="https://i.ibb.co/Z16Q4zV/mahrroscreenshot.png" width="400px"</img> 
 </div>
 
 
