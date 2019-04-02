@@ -20,6 +20,11 @@ EULA
     <img src="https://i.ibb.co/Z16Q4zV/mahrroscreenshot.png" width="400px"</img> 
 </div>
 
+# Real life enumeration of uber.com in bug bounty program
+1. You can see two sub domains pointing to broken heroku sub domains app have been found
+2. This tool is not limited to any specific vulernable sub domain host
+3. This software can extract all possible hijackable sub domains
+
 # ETA
 1. Dictionary based attack is a lenghty procedure
 2. Top maahro wordlist, hercelus takes 90+ hours to complete and most basic takes 1+ hour to complete
