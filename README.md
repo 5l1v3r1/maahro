@@ -14,7 +14,7 @@ EULA
 
 
 <div align="center">
-    <img src="http://oi66.tinypic.com/ji0495.jpg" width="400px"</img> 
+    <img src="https://i.ibb.co/jTXWy8v/maahro.png" width="400px"</img> 
 </div>
 <div align="center">
     <img src="https://i.ibb.co/Z16Q4zV/mahrroscreenshot.png" width="400px"</img> 
