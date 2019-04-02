@@ -44,7 +44,7 @@ print "[ + ] Enter Domain : ";
 chomp(my $site = <STDIN>);
 print "[ + ] Enter OSINT word file : ";
 chomp(my $filename = <STDIN>);
-print "[ + ] Please wait, contacting target using brute force\n";
+print "[ + ] Please wait, contacting target using dictionary attack to find sub domains\n";
 print "[ + ] Verfying and writing sub domains data in subdomains.txt\n";
 print "[ + ] Generating sub domains list: ";
 sleep (1);
