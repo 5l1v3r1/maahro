@@ -20,6 +20,10 @@ EULA
     <img src="https://i.ibb.co/Z16Q4zV/mahrroscreenshot.png" width="400px"</img> 
 </div>
 
+# ETA
+1. Dictionary based attack is a lenghty procedure
+2. Top maahro wordlist, hercelus takes 90+ hours to complete and most basic takes 1+ hour to complete
+
 
 # What Maahro means?
 1. Maahro is a urdu word, it means luminous light, yes a hope for fully automatic sub domain finder and possible take overs,
