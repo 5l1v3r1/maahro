@@ -16,16 +16,7 @@ EULA
 <div align="center">
     <img src="https://i.ibb.co/jTXWy8v/maahro.png" width="400px"</img> 
 </div>
-<div align="center">
-    <img src="https://i.ibb.co/Z16Q4zV/mahrroscreenshot.png" width="400px"</img> 
-</div>
 
-# Working Power
-1. Enumerating sub domain data of uber.com in bug bounty program
-2. You can see two sub domains pointing to broken heroku sub domains app have been found
-3. This tool is not limited to any specific vulernable sub domain host
-4. This software can extract all possible hijackable sub domains
-5. You can use this software to enumerate all sub domain data and make them most secure
 
 # ETA
 1. Dictionary based attack is a lenghty procedure
