@@ -2,7 +2,7 @@
 
 
 # Maahro
-1. Advanced sub domain hack software
+1. Advanced sub domain dictionary based hack software 
 2. This is a protection software by hacking and revealing full information it can
 
 # LICENSE
